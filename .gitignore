@@ -1,0 +1,22 @@
+# Node / Java / Kafka
+node_modules/
+target/
+build/
+out/
+.gradle/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
